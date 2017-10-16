@@ -1,0 +1,10 @@
+<manifest>
+  <remote name="origin"
+          fetch="." />
+
+  <default remote="origin"
+           revision="master" />
+
+  <project path="dummy1" name="dummy2" />
+  <project path="hello-world" name="hello-world" />
+</manifest>
